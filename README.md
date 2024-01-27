@@ -2,7 +2,8 @@
 
 A list of Telegram bots with open source code in alphabetical order. All sources will be listed by language in which the bots are written on.
 
-[! Disclaimer] - I didn't create any bots 
+> [! DISCLAIMER ]
+> I didn't create any bots 
 
 ### TypeScript
 
