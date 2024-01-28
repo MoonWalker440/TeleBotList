@@ -12,7 +12,7 @@ A list of Telegram bots with open source code in alphabetical order. All sources
 
 ### TypeScript
 
-- [@GeminiChatBot](https://t.me/GeminiTalkBot) - Uses google's gemini api (free tier). [Source Code](https://github.com/xditya/GeminiChatBot)
+- [@GeminiChatBot](https://t.me/GeminiTalkBot) - Uses google's gemini api (free tier). [GitHub](https://github.com/xditya/GeminiChatBot)
 
 Contribution
 Your contributions and suggestions are heartily welcome!
