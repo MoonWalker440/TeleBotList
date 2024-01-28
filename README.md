@@ -1,8 +1,10 @@
 # TeleBotList
 
-A list of Telegram bots with open source code in alphabetical order. All sources will be listed by language in which the bots are written on.
+This repository is a curated list of open source Telegram bots, with links to their source code on GitHub. The purpose of this list is to help developers find and learn from open-source Telegram bots, and to encourage the sharing of knowledge and best practices among the Telegram bot developer community. The list is frequently updated with new bots and improvements. All programming languages are listed by alphabetical order.
 
 ### JavaScript
+
+- [@ExpenseBot](https://t.me/ExpenseBot) - A bot that helps you manage and track your daily expenses. [GitHub](https://github.com/n1try/telegram-expense-bot)
 
 - [@instaa_saver_bot](https://t.me/instaa_saver_bot) ❌ - Effortlessly download Instagram Reels, posts, and images, along with captions, using this Telegram bot. [GitHub](https://github.com/akashvaghela09/insta-saver-bot)
 
@@ -42,7 +44,7 @@ A list of Telegram bots with open source code in alphabetical order. All sources
 
 - [topsupergroupsbot](https://t.me/topsupergroupsbot) - A telegram bot for telegram public groups leaderboards. [GitHub](https://github.com/91DarioDev/topsupergroupsbot)
 
-- [@langchain Gemini Api](https://t.me/rim_nova_bot) - An innovative AI conversation API leveraging Google's Gemini for multimodal understanding. Combines FastAPI, Langchain, and Redis for robust, scalable, and privacy-conscious text and image-based interactions. [GitHub](https://github.com/shamspias/langchain-gemini-api)
+- [Langchain Gemini Api](https://t.me/rim_nova_bot) - An innovative AI conversation API leveraging Google's Gemini for multimodal understanding. Combines FastAPI, Langchain, and Redis for robust, scalable, and privacy-conscious text and image-based interactions. [GitHub](https://github.com/shamspias/langchain-gemini-api)
 
 - [@Txt2SpeechBot](https://t.me/Txt2SpeechBot) ❌ - The only Text to Speech Telegram Inline Bot. [GitHub](https://github.com/gmm96/Txt2SpeechBot)
 
@@ -74,10 +76,14 @@ A list of Telegram bots with open source code in alphabetical order. All sources
 
 - [@GeminiChatBot](https://t.me/GeminiTalkBot) - Uses google's gemini api (free tier). [GitHub](https://github.com/xditya/GeminiChatBot)
 
-Contribution
-Your contributions and suggestions are heartily welcome!
-Please use the following message pattern for your commits: "Add [resource-id] to [section] / [language]", e.g: Add confstat bot to Examples / Python
-Provide URL to the repo on GitHub or BitBucket (or something else) instead of official web-site URL.
-For new programming languages use alphabet order.
+➤ Contribution 💝
 
-Feel free to add more bots links and sources by making a pull request or adding an issue.
+-> Your contributions and suggestions are always welcome !! Feel free to add more bots links and sources by making a pull request or adding an issue. 
+
+**Please use the below message format for your commits** : 
+
+- Add language & Provide URL to the repo on GitHub. Don't share direct bot.
+
+☯️Example : Gemini - https://github.com/... [Python]
+
+- For new programming languages, use alphabetical order.
