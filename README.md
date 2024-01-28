@@ -2,8 +2,13 @@
 
 A list of Telegram bots with open source code in alphabetical order. All sources will be listed by language in which the bots are written on.
 
-> [! WARNING]
-> I didn't create any bots 
+### JavaScript
+
+- [@instaa_saver_bot](https://github.com/akashvaghela09/insta-saver-bot) - Effortlessly download Instagram Reels, posts, and images, along with captions, using this Telegram bot.
+
+### Python
+
+- [) - Telegram bot to download posts & reels from Instagram
 
 ### TypeScript
 
