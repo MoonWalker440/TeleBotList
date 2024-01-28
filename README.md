@@ -4,15 +4,15 @@ A list of Telegram bots with open source code in alphabetical order. All sources
 
 ### JavaScript
 
-- [@instaa_saver_bot](https://github.com/akashvaghela09/insta-saver-bot) - Effortlessly download Instagram Reels, posts, and images, along with captions, using this Telegram bot. [Telegram](https://t.me/instaa_saver_bot)
+- [@instaa_saver_bot](https://t.me/instaa_saver_bot) - Effortlessly download Instagram Reels, posts, and images, along with captions, using this Telegram bot. [GitHub](https://github.com/akashvaghela09/insta-saver-bot)
 
 ### Python
 
-- [best-instagram-downloader](https://github.com/arashnm80/best-instagram-downloader) - Telegram bot to download posts & reels from Instagram. [Telegram](https://t.me/Best_Instagram_Downloader_Bot)
+- [@best-instagram-downloader](https://t.me/Best_Instagram_Downloader_Bot) - Telegram bot to download posts & reels from Instagram. [GitHub](https://github.com/arashnm80/best-instagram-downloader)
 
 ### TypeScript
 
-- [GeminiChatBot](https://github.com/xditya/GeminiChatBot) - Uses google's gemini api (free tier)
+- [@GeminiChatBot](https://t.me/GeminiTalkBot) - Uses google's gemini api (free tier). [Source Code](https://github.com/xditya/GeminiChatBot)
 
 Contribution
 Your contributions and suggestions are heartily welcome!
