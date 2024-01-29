@@ -1,6 +1,5 @@
 [![GitHub Logo](https://graph.org//file/a8989d31179c07165fc6f.jpg)](https://github.com/MoonWalker440/TeleBotList)
 
-
  <h1 align="center">Tele Bot List</h1>
 
 <p align="center"
