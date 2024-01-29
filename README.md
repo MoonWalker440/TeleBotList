@@ -31,8 +31,9 @@
 - [Python](#Python)
 - [TypeScript](#TypeScript)
 
-➤ Disclaimer(#Disclaimer)
-➤ Contribution(#Contribution)
+➤ Disclaimer(https://github.com/MoonWalker440/TeleBotList#Disclaimer)
+
+➤ Contribution(https://github.com/MoonWalker440/TeleBotList#Contribution)
 
 </details>
 
