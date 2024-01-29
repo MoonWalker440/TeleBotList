@@ -31,7 +31,7 @@
 - [Python](#Python)
 - [TypeScript](#TypeScript)
 
-➤ Contribution
+➤ Contribution(#Contribution)
 
 </details>
 
