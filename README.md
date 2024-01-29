@@ -145,7 +145,8 @@
 
 All the bots listed here are not made by me and I don't have any contact with developers. If any bot not working in the list please don't ask me.
 
-⚒️ **List Updated** : 29/01/23
+📃 Emoji : ❌ = Bot Dead 
+⚒️ ****List Updated : 29/01/23****
 
 ### ➤ Contribution 💝
 
