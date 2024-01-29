@@ -31,6 +31,7 @@
 - [Python](#Python)
 - [TypeScript](#TypeScript)
 
+➤ Disclaimer(#Disclaimer)
 ➤ Contribution(#Contribution)
 
 </details>
@@ -139,6 +140,12 @@
 
 - [Lemonic Telegram Bot](https://github.com/viperadnan-git/lemonic-telegram-bot) - A telegram bot for searching, streaming and downloading music from various platforms (uses Lemonic API).
 
+### ➤ Disclaimer
+
+All the bots listed here are not made by me and I don't have any contact with developers. If any bot not working in the list please don't ask me.
+
+⚒️ **List Updated** : 29/01/23
+
 ### ➤ Contribution 💝
 
 ➡️ Your contributions and suggestions are always welcome !! Feel free to add more bots links and sources by making a pull request or adding an issue. 
@@ -149,4 +156,4 @@
 
 ➡️ ️Example : Gemini - https://github.com/... [Python]
 
-- For new programming languages, use #lang tag
+- For new programming languages, use #lang tag 
