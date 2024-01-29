@@ -1,4 +1,4 @@
-[![GitHub Logo](https://graph.org/-01-29-17392)](https://github.com/MoonWalker440/TeleBotList)
+[![GitHub Logo](https://graph.org//file/a8989d31179c07165fc6f.jpg)](https://github.com/MoonWalker440/TeleBotList)
 
 
  <h1 align="center">Tele Bot List</h1>
@@ -25,12 +25,12 @@
 
 ➤ Languages
 
-- [C#](#c#)
-- [Go](#go)
-- [Java](#java)
-- [JavaScript](#javaScript)
-- [Python](#python)
-- [TypeScript](#typeScript)
+- [C#](#C#)
+- [Go](#Go)
+- [Java](#Java)
+- [JavaScript](#JavaScript)
+- [Python](#Python)
+- [TypeScript](#TypeScript)
 
 ➤ Contribution
 
@@ -144,10 +144,10 @@
 
 ➡️ Your contributions and suggestions are always welcome !! Feel free to add more bots links and sources by making a pull request or adding an issue. 
 
-**Please use the below format for your commits** : 
+****Please use the below format for your commits**** : 
 
 - Add language & Provide URL to the repo on GitHub. Don't share direct bot.
 
 ➡️ ️Example : Gemini - https://github.com/... [Python]
 
-- For new programming languages, use alphabetical order.
+- For new programming languages, use #lang tag
