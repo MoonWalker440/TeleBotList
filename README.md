@@ -25,16 +25,42 @@
 
 ➤ Languages
 
-- [C#]
-- [Go]
-- [Java]
-- [JavaScript]
-- [Python]
-- [TypeScript]
+- [C#](#c#)
+- [Go](#go)
+- [Java](#java)
+- [JavaScript](#javaScript)
+- [Python](#python)
+- [TypeScript](#typeScript)
 
 ➤ Contribution
 
 </details>
+
+### ➤ C#
+
+- [TgDownloader](https://github.com/DamianMorozov/TgDownloader) - Telegram Downloader
+
+- [DalleTelegramBot](https://github.com/dev-kian/DalleTelegramBot) - Telegram Bot for Image Generation with DALL-E OpenAI
+
+### ➤ Go
+
+- [Watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
+
+- [tg-spam](https://github.com/umputun/tg-spam) - Anti-Spam bot for Telegram
+
+- [@Alita_Robot](https://t.me/Alita_Robot) - Alita is a Telegram Group management bot made using Gotgbot and Go, which makes it modern and faster than most of the Telegram chat managers. [GitHub](https://github.com/divideprojects/Alita_Robot)
+
+- [@prgitrelbot](https://t.me/prgitrelbot) - A Telegram Bot (@prgitrelbot) that notifies you of new Github releases. [GitHub](https://github.com/chofnar/release-bot)
+
+- [Teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group
+
+- [@tenXoffer_bot](https://t.me/tenXoffer_bot) ❌ - The telegram bot will check if the user is subscribed to channels, if so it will grant access to the website. [GitHub](https://github.com/habibulloxon/check-sub-bot)
+
+- [teldrive](https://github.com/divyam234/teldrive) - Telegram Drive is a powerful utility that enables you to create your own cloud storage service using Telegram as the backend.
+
+### ➤ Java
+
+- [@userinfobot](https://t.me/userinfobot) - Simple Java Telegram bot displaying user info when a message is forwarded to it. [GitHub](https://github.com/nadam/userinfobot)
 
 ### ➤ JavaScript
 
@@ -45,10 +71,6 @@
 - [@beetube_bot](https://t.me/beetube_bot) ❌ - A telegram bot for music, movies, anime, torrent, EDM tracks, series downloads, files, and more. [GitHub](https://github.com/kodjunkie/beetube-bot)
 
 - [@terabox_dl_arman_bot](https://t.me/terabox_dl_arman_bot) ❌ - Download files of terabox using telegram bot. [GitHub](https://github.com/Armanidrisi/Terabox-downloader-telegram)
-
-### ➤ Java
-
-- [@userinfobot](https://t.me/userinfobot) - Simple Java Telegram bot displaying user info when a message is forwarded to it. [GitHub](https://github.com/nadam/userinfobot)
 
 ### ➤ Python
 
@@ -109,28 +131,6 @@
 - [@Txt2SpeechBot](https://t.me/Txt2SpeechBot) ❌ - The only Text to Speech Telegram Inline Bot. [GitHub](https://github.com/gmm96/Txt2SpeechBot)
 
 - [@MissKatyRoBot](https://t.me/MissKatyRoBot) - A Very Useful Telegram Bot That Has Some Great Feature. [GitHub](https://github.com/yasirarism/MissKatyPyro)
-
-### ➤ Go
-
-- [Watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
-
-- [tg-spam](https://github.com/umputun/tg-spam) - Anti-Spam bot for Telegram
-
-- [@Alita_Robot](https://t.me/Alita_Robot) - Alita is a Telegram Group management bot made using Gotgbot and Go, which makes it modern and faster than most of the Telegram chat managers. [GitHub](https://github.com/divideprojects/Alita_Robot)
-
-- [@prgitrelbot](https://t.me/prgitrelbot) - A Telegram Bot (@prgitrelbot) that notifies you of new Github releases. [GitHub](https://github.com/chofnar/release-bot)
-
-- [Teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group
-
-- [@tenXoffer_bot](https://t.me/tenXoffer_bot) ❌ - The telegram bot will check if the user is subscribed to channels, if so it will grant access to the website. [GitHub](https://github.com/habibulloxon/check-sub-bot)
-
-- [teldrive](https://github.com/divyam234/teldrive) - Telegram Drive is a powerful utility that enables you to create your own cloud storage service using Telegram as the backend.
-
-### ➤ C#
-
-- [TgDownloader](https://github.com/DamianMorozov/TgDownloader) - Telegram Downloader
-
-- [DalleTelegramBot](https://github.com/dev-kian/DalleTelegramBot) - Telegram Bot for Image Generation with DALL-E OpenAI
 
 ### ➤ TypeScript
 
