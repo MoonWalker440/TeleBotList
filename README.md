@@ -24,16 +24,16 @@
 
 ➤ Languages
 
-- [C#](https://github.com/MoonWalker440/TeleBotList#c#)
-- [Go](https://github.com/MoonWalker440/TeleBotList#go)
-- [Java](https://github.com/MoonWalker440/TeleBotList#java)
-- [JavaScript](https://github.com/MoonWalker440/TeleBotList#javaScript)
-- [Python](https://github.com/MoonWalker440/TeleBotList#python)
-- [TypeScript](https://github.com/MoonWalker440/TeleBotList#typeScript)
+- [C#](https://github.com/MoonWalker440/TeleBotList#-c)
+- [Go](https://github.com/MoonWalker440/TeleBotList#-go)
+- [Java](https://github.com/MoonWalker440/TeleBotList#-java)
+- [JavaScript](https://github.com/MoonWalker440/TeleBotList#-javaScript)
+- [Python](https://github.com/MoonWalker440/TeleBotList#-python)
+- [TypeScript](https://github.com/MoonWalker440/TeleBotList#-typeScript)
 
-➤ [Disclaimer](https://github.com/MoonWalker440/TeleBotList#disclaimer)
+➤ [Disclaimer](https://github.com/MoonWalker440/TeleBotList#-disclaimer)
 
-➤ [Contribution](https://github.com/MoonWalker440/TeleBotList#contribution)
+➤ [Contribution](https://github.com/MoonWalker440/TeleBotList#-contribution)
 
 </details>
 
