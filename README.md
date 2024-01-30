@@ -28,7 +28,9 @@
 - [Go](https://github.com/MoonWalker440/TeleBotList#-go)
 - [Java](https://github.com/MoonWalker440/TeleBotList#-java)
 - [JavaScript](https://github.com/MoonWalker440/TeleBotList#-javaScript)
+- [Lua](https://github.com/MoonWalker440/TeleBotList#-lua)
 - [Python](https://github.com/MoonWalker440/TeleBotList#-python)
+- [Rust](https://github.com/MoonWalker440/TeleBotList#-rust)
 - [TypeScript](https://github.com/MoonWalker440/TeleBotList#-typeScript)
 
 ➤ [Disclaimer](https://github.com/MoonWalker440/TeleBotList#-disclaimer)
@@ -63,6 +65,8 @@
 
 - [@userinfobot](https://t.me/userinfobot) - Simple Java Telegram bot displaying user info when a message is forwarded to it. [GitHub](https://github.com/nadam/userinfobot)
 
+- [@trashemail_bot](https://t.me/trashemail_bot)🆕 - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community. [GitHub](https://github.com/rosehgal/TrashEmail)
+
 ### ➤ JavaScript
 
 - [@ExpenseBot](https://t.me/ExpenseBot) - A bot that helps you manage and track your daily expenses. [GitHub](https://github.com/n1try/telegram-expense-bot)
@@ -72,6 +76,10 @@
 - [@beetube_bot](https://t.me/beetube_bot) ❌ - A telegram bot for music, movies, anime, torrent, EDM tracks, series downloads, files, and more. [GitHub](https://github.com/kodjunkie/beetube-bot)
 
 - [@terabox_dl_arman_bot](https://t.me/terabox_dl_arman_bot) ❌ - Download files of terabox using telegram bot. [GitHub](https://github.com/Armanidrisi/Terabox-downloader-telegram)
+
+### ➤ Lua
+
+- [@GroupButler_bot](https://t.me/GroupButler_bot)🆕 - This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more. [GitHub](https://github.com/group-butler/GroupButler)
 
 ### ➤ Python
 
@@ -133,6 +141,33 @@
 
 - [@MissKatyRoBot](https://t.me/MissKatyRoBot) - A Very Useful Telegram Bot That Has Some Great Feature. [GitHub](https://github.com/yasirarism/MissKatyPyro)
 
+- [banger link](https://github.com/luisg0nc/banger-link)🆕 - This is a Telegram bot that helps you find YouTube links for music from Apple Music and Spotify. Simply send a link to a song from either service, and the bot will retrieve a YouTube link for the same song.
+
+- [TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot)🆕 - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha for each new user and kicks any of them who can't solve the captcha in a specified time. 
+- [@rename1robot](https://t.me/rename1robot)🆕 - A Telegram File Renamer Bot With Permanent Thumbnail Support Also It Can Convert Files Into Video. [GitHub](https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+
+- [mirror leech telegram bot](https://github.com/anasty17/mirror-leech-telegram-bot)🆕 - Telegram bot which can download direct links, torrents, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloader supported sites, then upload them to google drive, telegram cloud or to one of rclone supported clouds.
+
+- [freqtrade](https://github.com/freqtrade/freqtrade)🆕 - Free, open source crypto trading bot
+
+- [Telegram Forwarder](https://github.com/MrMissx/Telegram_Forwarder)🆕 - Simple telegram bot to forward message form channel/group.
+
+- [RasaGPT](https://github.com/paulpierre/RasaGPT)🆕 - RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain.
+
+- [SMD](https://t.me/SpotifyMusicDownloaderBot)🆕 - Spotify Music Downloader. [GitHub](https://github.com/artyshko/smd)
+
+- [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot)🆕 - Stable telegram bot to save Restricted content with custom thumbnail support.
+
+- [@DC_FileRename_Bot](https://t.me/DC_FileRename_Bot)🆕 - Simple & High Speed Telegram File Rename Bot For only personal use. [GitHub](https://github.com/AbirHasan2005/Rename-Bot)
+
+- [@SergioMarquina_bot](https://t.me/SergioMarquina_bot) 🆕- This is Telegram AutoFilter Bot and More helpful Features. [GitHub](https://github.com/MrMKN/PROFESSOR-BOT)
+
+- [@VidCom_Robot](https://t.me/VidCom_Robot)🆕 - Telegram Video Compressor Bot. [GitHub](https://github.com/AbirHasan2005/VideoCompress)
+
+### ➤ Rust
+
+- [@RustRssBot](http://t.me/RustRssBot)🆕 - Lightweight Telegram RSS notification bot. [GitHub](https://github.com/iovxw/rssbot)
+
 ### ➤ TypeScript
 
 - [@GeminiChatBot](https://t.me/GeminiTalkBot) - Uses google's gemini api (free tier). [GitHub](https://github.com/xditya/GeminiChatBot)
@@ -141,13 +176,15 @@
 
 - [Lemonic Telegram Bot](https://github.com/viperadnan-git/lemonic-telegram-bot) - A telegram bot for searching, streaming and downloading music from various platforms (uses Lemonic API).
 
+- [@YoutubeNotifBot](https://t.me/YoutubeNotifBot)🆕 - Get notifications in direct your telegram channel or group or DM once a new video is uploaded by your favourite YouTube creators. [GitHub](https://github.com/xditya/YouTubeFeeds)
+
 ### ➤ Disclaimer
 
 All the bots listed here are not made by me and I don't have any contact with developers. If any bot not working in the list please don't ask me.
 
 📃 Emoji : ❌ = Bot Dead 
 
-⚒️ ****List Updated : 29/01/23****
+⚒️ ****List Updated : 30/01/24****
 
 ### ➤ Contribution 💝
 
