@@ -164,6 +164,8 @@
 
 - [@VidCom_Robot](https://t.me/VidCom_Robot)🆕 - Telegram Video Compressor Bot. [GitHub](https://github.com/AbirHasan2005/VideoCompress)
 
+- [en_frbot](https://t.me/en_frbot)🆕 - A telegram bot for English & French translation‌‌. [GitHub](https://github.com/codingtuto/TG-TRANSLATOR-BOT/)
+
 ### ➤ Rust
 
 - [@RustRssBot](http://t.me/RustRssBot)🆕 - Lightweight Telegram RSS notification bot. [GitHub](https://github.com/iovxw/rssbot)
