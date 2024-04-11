@@ -21,14 +21,22 @@
 
 ➤ Languages
 
+- [Bash](#-bash)
 - [C#](https://github.com/MoonWalker440/TeleBotList#-c)
+- [Fluent](#-fluent)
 - [Go](https://github.com/MoonWalker440/TeleBotList#-go)
 - [Java](https://github.com/MoonWalker440/TeleBotList#-java)
 - [JavaScript](https://github.com/MoonWalker440/TeleBotList#-javaScript)
 - [Lua](https://github.com/MoonWalker440/TeleBotList#-lua)
+- [Nim](#-nim)
+- [php](https://github.com/MoonWalker440/TeleBotList#-php)
 - [Python](https://github.com/MoonWalker440/TeleBotList#-python)
+- [Ruby](https://github.com/MoonWalker440/TeleBotList#-ruby)
 - [Rust](https://github.com/MoonWalker440/TeleBotList#-rust)
+- [Shell](#-shell)
 - [TypeScript](https://github.com/MoonWalker440/TeleBotList#-typeScript)
+
+➤ [Tools](#-tools)
 
 ➤ [Disclaimer](https://github.com/MoonWalker440/TeleBotList#-disclaimer)
 
@@ -36,15 +44,21 @@
 
 </details>
 
-### ➤ C#
+### ➤ Bash
 
-- [TgDownloader](https://github.com/DamianMorozov/TgDownloader) - Telegram Downloader
+- [Watermark bot](https://github.com/eyaadh/Watermark-Bash-Telegram-Bot)🆕 - This is an opensource Telegram Bot built based on bash
+
+### ➤ C#
 
 - [DalleTelegramBot](https://github.com/dev-kian/DalleTelegramBot) - Telegram Bot for Image Generation with DALL-E OpenAI
 
-### ➤ Go
+- [@tthemebot](https://t.me/tthemebot) - Open source theme bot. [GitHub](https://github.com/GreyWolfDev/Telegram-Theme-Bot)
 
-- [Watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
+### ➤ Fluent 
+
+- [@ChannelActionsBot](https://t.me/ChannelActionsBot)🆕 - Telegram bot to auto approve chat join requests. [GitHub](https://github.com/xditya/ChannelActionsBot)
+
+### ➤ Go
 
 - [tg-spam](https://github.com/umputun/tg-spam) - Anti-Spam bot for Telegram
 
@@ -52,17 +66,21 @@
 
 - [@prgitrelbot](https://t.me/prgitrelbot) - A Telegram Bot (@prgitrelbot) that notifies you of new Github releases. [GitHub](https://github.com/chofnar/release-bot)
 
-- [Teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group
-
 - [@tenXoffer_bot](https://t.me/tenXoffer_bot) ❌ - The telegram bot will check if the user is subscribed to channels, if so it will grant access to the website. [GitHub](https://github.com/habibulloxon/check-sub-bot)
 
-- [teldrive](https://github.com/divyam234/teldrive) - Telegram Drive is a powerful utility that enables you to create your own cloud storage service using Telegram as the backend.
+- [@iruncode_bot](https://t.me/iruncode_bot)🆕 - A Telegram bot that will run code for you. [GitHub](https://github.com/tusharsadhwani/piston_bot)
 
 ### ➤ Java
 
 - [@userinfobot](https://t.me/userinfobot) - Simple Java Telegram bot displaying user info when a message is forwarded to it. [GitHub](https://github.com/nadam/userinfobot)
 
-- [@trashemail_bot](https://t.me/trashemail_bot)🆕 - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community. [GitHub](https://github.com/rosehgal/TrashEmail)
+- [@trashemail_bot](https://t.me/trashemail_bot) - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community. [GitHub](https://github.com/rosehgal/TrashEmail)
+
+- [@chatbridgebot](https://.me/chatbridgebot)🆕 - Bot that lets Telegram users chat with each other even if they are reported. [GitHub](https://github.com/nadam/chatbridgebot)
+
+- [@userinfobot](https://telegram.me/userinfobot)🆕 - Simple Java Telegram bot displaying user info when a message is forwarded to it. [GitHub](https://github.com/nadam/userinfobot)
+
+- [@AvandyNewsBot](https://t.me/AvandyNewsBot)🆕 - With this bot you will be aware of all the latest news. [GitHub](https://github.com/mrprogre/avandy-news-bot)
 
 ### ➤ JavaScript
 
@@ -74,9 +92,29 @@
 
 - [@terabox_dl_arman_bot](https://t.me/terabox_dl_arman_bot) ❌ - Download files of terabox using telegram bot. [GitHub](https://github.com/Armanidrisi/Terabox-downloader-telegram)
 
+- [@sticker_convert_bot](https://t.me/sticker_convert_bot)🆕 - Converts Telegram Photos / Documents into the required 512 .PNG format. [GitHub](https://github.com/mkg20001/tg-sticker-convert-bot)
+
+- [@WhatAnimeBot](https://t.me/WhatAnimeBot)🆕 - This Telegram Bot can tell the anime when you send an screenshot to it. [GitHub](https://github.com/soruly/whatanime.ga-telegram-bot)
+
+- [@werewolfbot](https://t.me/werewolfbot)🆕 - Werewolf for Telegram. [GitHub](https://github.com/parabola949/Werewolf)
+
+- [@Tarchivebot](https://t.me/Tarchivebot)🆕 - Telegram chat message archive and statistics. [GitHub](https://github.com/PROGRADE-Tech/Tarchivebot)
+
 ### ➤ Lua
 
-- [@GroupButler_bot](https://t.me/GroupButler_bot)🆕 - This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more. [GitHub](https://github.com/group-butler/GroupButler)
+- [@GroupButler_bot](https://t.me/GroupButler_bot) - This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more. [GitHub](https://github.com/group-butler/GroupButler)
+
+### Nim
+
+- [@MarkinimBot](https://t.me/MarkinimBot) - A bot that learn from your messages and generate it's own sentences. [GitHub](https://github.com/DavideGalilei/markinim)
+
+### ➤ php
+
+- [@Giveaways_Bot](https://telegram.me/Giveaways_Bot)❌ - A Telegram Bot to handle giveaways right on Telegram. [GitHub](https://github.com/DanySpin97/GiveawaysBot)
+
+- [@InlineGamesBot](https://t.me/InlineGamesBot) - A Telegram bot that provides real-time multiplayer games that can be played in any chat. [GitHub](https://github.com/jacklul/inlinegamesbot)
+
+- [@UrbanBot](https://t.me/UrbanBot)❌ - Telegram bot to retrieve words or phrases definitions from Urban Dictionary. [GitHub](https://github.com/shkoliar/urban-dictionary-telegram-bot)
 
 ### ➤ Python
 
@@ -138,34 +176,68 @@
 
 - [@MissKatyRoBot](https://t.me/MissKatyRoBot) - A Very Useful Telegram Bot That Has Some Great Feature. [GitHub](https://github.com/yasirarism/MissKatyPyro)
 
-- [banger link](https://github.com/luisg0nc/banger-link)🆕 - This is a Telegram bot that helps you find YouTube links for music from Apple Music and Spotify. Simply send a link to a song from either service, and the bot will retrieve a YouTube link for the same song.
+- [banger link](https://github.com/luisg0nc/banger-link) - This is a Telegram bot that helps you find YouTube links for music from Apple Music and Spotify. Simply send a link to a song from either service, and the bot will retrieve a YouTube link for the same song.
 
-- [TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot)🆕 - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha for each new user and kicks any of them who can't solve the captcha in a specified time. 
-- [@rename1robot](https://t.me/rename1robot)🆕 - A Telegram File Renamer Bot With Permanent Thumbnail Support Also It Can Convert Files Into Video. [GitHub](https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+- [TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha for each new user and kicks any of them who can't solve the captcha in a specified time. 
+- [@rename1robot](https://t.me/rename1robot) - A Telegram File Renamer Bot With Permanent Thumbnail Support Also It Can Convert Files Into Video. [GitHub](https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
 
-- [mirror leech telegram bot](https://github.com/anasty17/mirror-leech-telegram-bot)🆕 - Telegram bot which can download direct links, torrents, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloader supported sites, then upload them to google drive, telegram cloud or to one of rclone supported clouds.
+- [mirror leech telegram bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Telegram bot which can download direct links, torrents, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloader supported sites, then upload them to google drive, telegram cloud or to one of rclone supported clouds.
 
-- [freqtrade](https://github.com/freqtrade/freqtrade)🆕 - Free, open source crypto trading bot
+- [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
-- [Telegram Forwarder](https://github.com/MrMissx/Telegram_Forwarder)🆕 - Simple telegram bot to forward message form channel/group.
+- [Telegram Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message form channel/group.
 
-- [RasaGPT](https://github.com/paulpierre/RasaGPT)🆕 - RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain.
+- [RasaGPT](https://github.com/paulpierre/RasaGPT) - RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain.
 
-- [SMD](https://t.me/SpotifyMusicDownloaderBot)🆕 - Spotify Music Downloader. [GitHub](https://github.com/artyshko/smd)
+- [SMD](https://t.me/SpotifyMusicDownloaderBot) - Spotify Music Downloader. [GitHub](https://github.com/artyshko/smd)
 
-- [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot)🆕 - Stable telegram bot to save Restricted content with custom thumbnail support.
+- [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 
-- [@DC_FileRename_Bot](https://t.me/DC_FileRename_Bot)🆕 - Simple & High Speed Telegram File Rename Bot For only personal use. [GitHub](https://github.com/AbirHasan2005/Rename-Bot)
+- [@DC_FileRename_Bot](https://t.me/DC_FileRename_Bot) - Simple & High Speed Telegram File Rename Bot For only personal use. [GitHub](https://github.com/AbirHasan2005/Rename-Bot)
 
-- [@SergioMarquina_bot](https://t.me/SergioMarquina_bot) 🆕- This is Telegram AutoFilter Bot and More helpful Features. [GitHub](https://github.com/MrMKN/PROFESSOR-BOT)
+- [@SergioMarquina_bot](https://t.me/SergioMarquina_bot) - This is Telegram AutoFilter Bot and More helpful Features. [GitHub](https://github.com/MrMKN/PROFESSOR-BOT)
 
-- [@VidCom_Robot](https://t.me/VidCom_Robot)🆕 - Telegram Video Compressor Bot. [GitHub](https://github.com/AbirHasan2005/VideoCompress)
+- [@VidCom_Robot](https://t.me/VidCom_Robot) - Telegram Video Compressor Bot. [GitHub](https://github.com/AbirHasan2005/VideoCompress)
 
-- [en_frbot](https://t.me/en_frbot)🆕 - A telegram bot for English & French translation‌‌. [GitHub](https://github.com/codingtuto/TG-TRANSLATOR-BOT/)
+- [@en_frbot](https://t.me/en_frbot) - A telegram bot for English & French translation‌‌. [GitHub](https://github.com/codingtuto/TG-TRANSLATOR-BOT/)
+
+- [@vic_genai_bot](https://t.me/vic_genai_bot)🆕 - A chatbot which is versatile and intelligent. [GitHub](https://github.com/iamlooper/VIC-TG-Bot)
+
+- [@WilliamButcherBot](https://t.me/WilliamButcherBot)🆕 - Telegram Group Manager Bot. [GitHub ](https://github.com/thehamkercat/WilliamButcherBot)
+
+- [@odesli_bot](https://t.me/odesli_bot)🆕 - Telegram Bot to share music with Odesli (former Songlink) service. [GitHub](https://github.com/9dogs/tg-odesli-bot)
+
+- [@SmudgeLordBOT](https://t.me/SmudgeLordBOT)🆕 - A bot with cool functions and stuffs for you and your group. [GitHub](https://github.com/ruizlenato/SmudgeLord)
+
+- [@reverse_image_search_bot](https://t.me/reverse_image_search_bot)🆕 - Reverse image search bot for various engines like SauceNAO, Google, Yandex and more. [GitHub](https://github.com/Nachtalb/reverse_image_search_bot)
+
+- [@𝗕𝗶𝗹𝗹𝗮✘𝗠𝘂𝘀𝗶𝗰](http://t.me/billamusicbot)🆕 - Telegram Group Calls Streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Link. [GitHub](https://github.com/meblionrie/venubeta)
+
+- [WhisperBot](https://github.com/sobirjonovme/WhisperBot)🆕 - WhisperBot is a Telegram bot that allows users to send secret or important messages to selected members of a group. 
+
+- [@ExonRobot](https://t.me/Exon_Robot)❌🆕 - A Fast Telegram Group Management Bot. [GitHub](https://github.com/Abishnoi69/ExonRobot)
+
+- [@pdfbot](https://t.me/pdfbot)🆕 - A Telegram bot that can do a lot of things related to PDF files. [GitHub](https://github.com/zeshuaro/telegram-pdf-bot)
+
+- [@UploadLinkToFileBot](https://t.me/UploadLinkToFileBot)🆕 - Remotely uploads files to Telegram. [GitHub](https://github.com/LISA-KOREA/UPLOADER-BOT-V4)
+
+- [AudioExtractorBot](https://github.com/iAkashPattnaik/AudioExtractorBot)🆕 - A telegram bot source to extract audio from videos. 
+
+### ➤ Ruby
+
+- [AndysTicTacToe](https://github.com/Zhivch1k/AndysTicTacToe) - Tic-tac-toe game as a Telegram Bot 
 
 ### ➤ Rust
 
-- [@RustRssBot](http://t.me/RustRssBot)🆕 - Lightweight Telegram RSS notification bot. [GitHub](https://github.com/iovxw/rssbot)
+- [@RustRssBot](http://t.me/RustRssBot) - Lightweight Telegram RSS notification bot. [GitHub](https://github.com/iovxw/rssbot)
+
+- [@TelereadsBot](https://telegram.me/TelereadsBot)🆕 - Find books on Goodreads and share them quickly in Telegram chats. [GitHub](https://github.com/harababurel/telereads)
+
+- [Unicode bot](https://github.com/JuanPotato/unicode_bot)🆕 - telegram bot for giving unicode information
+
+### ➤ Shell
+
+- [WarnBot](https://github.com/iicc1/WarnBot_Telegram-Bot) - A Telegram Bot to manage users in chats
 
 ### ➤ TypeScript
 
@@ -175,7 +247,27 @@
 
 - [Lemonic Telegram Bot](https://github.com/viperadnan-git/lemonic-telegram-bot) - A telegram bot for searching, streaming and downloading music from various platforms (uses Lemonic API).
 
-- [@YoutubeNotifBot](https://t.me/YoutubeNotifBot)🆕 - Get notifications in direct your telegram channel or group or DM once a new video is uploaded by your favourite YouTube creators. [GitHub](https://github.com/xditya/YouTubeFeeds)
+- [@YoutubeNotifBot](https://t.me/YoutubeNotifBot) - Get notifications in direct your telegram channel or group or DM once a new video is uploaded by your favourite YouTube creators. [GitHub](https://github.com/xditya/YouTubeFeeds)
+
+- [@WatchdogVerifyBot](https://t.me/WatchdogVerifyBot)🆕 - It can verify new members with CAPTCHA and prevent spam bot from group chats automatically. [GitHub](https://github.com/tg-watchdog/tg-watchdog)
+
+- [@AnnounceBot](https://telegram.me/AnnounceBot)🆕 - A notification bot for several games, available on Discord and Telegram. [GitHub](https://github.com/GameFeeder/GameFeeder)
+
+- [@truecallerjs_bot](https://t.me/truecallerjs_bot)🆕 - A Telegram bot to lookup phone number info via Truecaller API. [GitHub](https://github.com/ni554n/truecallerjs_bot)
+
+### ➤ Tools
+
+- [Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
+
+- [catuserbot](https://github.com/TgCatUB/catuserbot) - A simple Telegram userbot based on Telethon
+
+- [mirror leech telegram bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Telegram bot which can download direct links, torrents, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloader supported sites, then upload them to google drive, telegram cloud or to one of rclone supported clouds
+
+- [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
+
+- [teldrive](https://github.com/divyam234/teldrive) - Telegram Drive is a powerful utility that enables you to create your own cloud storage service using Telegram as the backend.
+
+- [Watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
 
 ### ➤ Disclaimer
 
@@ -183,7 +275,7 @@ All the bots listed here are not made by me and I don't have any contact with de
 
 📃 Emoji : ❌ = Bot Dead 
 
-⚒️ ****List Updated : 30/01/24****
+⚒️ ****List Updated : 11/04/24****
 
 ### ➤ Contribution 💝
 
@@ -193,6 +285,4 @@ All the bots listed here are not made by me and I don't have any contact with de
 
 - Add language & Provide URL to the repo on GitHub. Don't share direct bot.
 
-➡️ ️Example : Gemini - https://github.com/... [Python]
-
-- For new programming languages, use #lang tag 
+➡️ ️Example : Gemini - https://github.com/... [Python]��px a�me/) -t) ervaming bot with soh soh soh s
