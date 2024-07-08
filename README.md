@@ -70,6 +70,8 @@
 
 - [@iruncode_bot](https://t.me/iruncode_bot)🆕 - A Telegram bot that will run code for you. [GitHub](https://github.com/tusharsadhwani/piston_bot)
 
+- [@the_rms_bot](https://t.me/the_rms_bot) - A very simple bot that responds to a command by a random meme. [GitLab](https://gitlab.com/albandewilde/ris)
+
 ### ➤ Java
 
 - [@userinfobot](https://t.me/userinfobot) - Simple Java Telegram bot displaying user info when a message is forwarded to it. [GitHub](https://github.com/nadam/userinfobot)
