@@ -74,6 +74,8 @@
 
 - [@wayback_machine_bot](https://t.me/wayback_machine_bot) - Wayback Machine Bot. [GitHub](https://github.com/tgbot-collection/archiver)
 
+- [@notion_echo_bot](https://t.me/notion_echo_bot) - A telegram bot to write your thoughts in Notion from Telegram. [GitHub](https://github.com/fulviodenza/notion-echo)
+
 ### ➤ Java
 
 - [@userinfobot](https://t.me/userinfobot) - Simple Java Telegram bot displaying user info when a message is forwarded to it. [GitHub](https://github.com/nadam/userinfobot)
