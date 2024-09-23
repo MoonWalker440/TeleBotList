@@ -124,6 +124,8 @@
 
 ### ➤ Python
 
+- [@ToEnWikipediaBot](https://t.me/ToEnWikipediaBot) - Telegram bot that converts any non-English Wikipedia link into its English equivalent. [GitHub](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)
+
 - [@unzip_edm115bot](https://t.me/unzip_edm115bot) - A Telegram bot to extract various types of archives. [GitHub](https://github.com/EDM115/unzip-bot)
 
 - [@TeraderMoviebot](https://t.me/TeraderMoviebot) - A Telegram Bot to help automate movie search and retirevals. [GitHub](https://github.com/t-ega/Terader-Movie-Hub-Telegram-Bot)
