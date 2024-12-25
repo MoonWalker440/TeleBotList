@@ -100,6 +100,10 @@
 
 - [@Tarchivebot](https://t.me/Tarchivebot) - Telegram chat message archive and statistics. [GitHub](https://github.com/PROGRADE-Tech/Tarchivebot)
 
+- [@HyperTAG_bot](https://t.me/HyperTAG_bot) - AI-Generated Tags and Summaries for Telegram Messages. [GitHub](https://github.com/Mostafa-Abbasi/HyperTAG)
+
+- [Tunified](https://github.com/Burhanverse/Tunified) - A Telegram bot that fetches the currently playing song from Last.fm and posts details about the song to a specified channel.
+
 ### ➤ Lua
 
 - [@GroupButler_bot](https://t.me/GroupButler_bot) - This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more. [GitHub](https://github.com/group-butler/GroupButler)
@@ -232,6 +236,20 @@
 - [@AiCompBot](https://t.me/AiCompBot]❌ - A Telegram bot interface for AI models available for free via Cloudflare Workers AI API. [GitHub](https://github.com/natnaelab/AI_Companion_Bot)
 
 - [PixelDrain Bot](https://t.me/aquaxpdbot)❌ - A Telegram media to PixelDrain upload bot, providing a seamless integration for file sharing. [GitHub](https://github.com/Burhanverse/Pixeldrain-Bot)
+
+- [@SpotSeekBot](https://t.me/SpotSeekBot) - Spotify Downloader. [GitHub](https://github.com/arashnm80/spot-seek-bot)
+
+- [@TorrentHuntBot](https://t.me/TorrentHuntBot?start=github) - The ultimate torrent bot on telegram. [GitHub](https://github.com/hemantapkh/TorrentHunt)
+
+- [trpcc](https://github.com/xzripper/trpcc) - A powerful tool for remotely controlling your PC via a Telegram bot, offering features like file management, system control, hardware interaction, keylogging, and more.
+
+- [Self Mail Bot](https://github.com/f213/selfmailbot) - Telegram bot forwarding messages to the inbox.
+
+- [Enc](https://github.com/Nubuki-all/Enc) - A bot among many others to encode and upload videos to telegram.
+
+- [Whisper Transcriber](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) - Python-based Whisper transcriber bot for Telegram.
+
+- [Tweet Downloader](https://github.com/mad22mx/tweet_downloader) - This project enables the downloading of tweets from Twitter that include images or videos.
 
 ### ➤ Ruby
 
