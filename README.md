@@ -102,6 +102,8 @@
 
 - [@HyperTAG_bot](https://t.me/HyperTAG_bot) - AI-Generated Tags and Summaries for Telegram Messages. [GitHub](https://github.com/Mostafa-Abbasi/HyperTAG)
 
+- [@rssifyxbot](https://t.me/rssifyxbot) - A lightweight telegram bot powered by NodeJS™, that helps you stay updated by delivering content from your favorite RSS feeds directly to your group chat or in private. Customize, organize, and manage your RSS subscriptions effortlessly! [GitHub](https://github.com/Burhanverse/rssify)
+  
 - [Tunified](https://github.com/Burhanverse/Tunified) - A Telegram bot that fetches the currently playing song from Last.fm and posts details about the song to a specified channel.
 
 ### ➤ Lua
