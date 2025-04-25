@@ -70,6 +70,8 @@
 
 - [@notion_echo_bot](https://t.me/notion_echo_bot) - A telegram bot to write your thoughts in Notion from Telegram. [GitHub](https://github.com/fulviodenza/notion-echo)
 
+- [@the_peche_bot](https://t.me/the_peche_bot) - A telegram bot that spontaneously send images at random time in a channel. [GitLab](https://gitlab.com/albandewilde/peche)
+
 ### ➤ Java
 
 - [@userinfobot](https://t.me/userinfobot) - Simple Java Telegram bot displaying user info when a message is forwarded to it. [GitHub](https://github.com/nadam/userinfobot)
