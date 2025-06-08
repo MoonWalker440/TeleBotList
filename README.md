@@ -56,6 +56,8 @@
 
 - [tg-spam](https://github.com/umputun/tg-spam) - Anti-Spam bot for Telegram
 
+- [CSUBOT](https://github.com/cjh0613/csubot) - Anti-Spam bot, Telegram Web APP CAPTCHA Bot to verify if incoming group users are real humans.
+
 - [@Alita_Robot](https://t.me/Alita_Robot) - Alita is a Telegram Group management bot made using Gotgbot and Go, which makes it modern and faster than most of the Telegram chat managers. [GitHub](https://github.com/divideprojects/Alita_Robot)
 
 - [@prgitrelbot](https://t.me/prgitrelbot) - A Telegram Bot (@prgitrelbot) that notifies you of new Github releases. [GitHub](https://github.com/chofnar/release-bot)
