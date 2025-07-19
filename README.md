@@ -82,8 +82,6 @@
 
 - [@chatbridgebot](https://.me/chatbridgebot) - Bot that lets Telegram users chat with each other even if they are reported. [GitHub](https://github.com/nadam/chatbridgebot)
 
-- [@userinfobot](https://telegram.me/userinfobot) - Simple Java Telegram bot displaying user info when a message is forwarded to it. [GitHub](https://github.com/nadam/userinfobot)
-
 - [@AvandyNewsBot](https://t.me/AvandyNewsBot) - With this bot you will be aware of all the latest news. [GitHub](https://github.com/mrprogre/avandy-news-bot)
 
 ### ➤ JavaScript
