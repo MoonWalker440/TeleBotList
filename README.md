@@ -194,6 +194,7 @@
 - [mirror leech telegram bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Telegram bot which can download direct links, torrents, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloader supported sites, then upload them to google drive, telegram cloud or to one of rclone supported clouds.
 
 - [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+- [NoxBaseBot](https://t.me/NoxBaseBot) - Crypto portfolio tracker and DeFi utility bot with 34+ commands — real-time prices, ASCII charts, whale alerts, fear/greed index, ATH tracking, and more. [GitHub](https://github.com/dayi1000/nox-base-bot)
 
 - [Telegram Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message form channel/group.
 
