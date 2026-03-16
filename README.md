@@ -255,6 +255,8 @@
 
 - [Tweet Downloader](https://github.com/mad22mx/tweet_downloader) - This project enables the downloading of tweets from Twitter that include images or videos.
 
+- [AiogramShopBot](https://github.com/ilyarolf/AiogramShopBot) – Open-source Telegram shop bot built with Aiogram 3, supporting digital and physical product sales, cryptocurrency payments (BTC, ETH, LTC, SOL, BNB, USDT), referral system and web admin panel.
+
 ### ➤ Ruby
 
 - [AndysTicTacToe](https://github.com/Zhivch1k/AndysTicTacToe) - Tic-tac-toe game as a Telegram Bot 
