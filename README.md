@@ -126,6 +126,8 @@
 
 ### ➤ Python
 
+- [@BroletterBot](https://t.me/BroletterBot) - Personalized daily science briefing bot. Reads arXiv every night, explains papers via Gemini, and delivers a tap-to-expand preview card. Supports Telegram Stars subscriptions. [GitHub](https://github.com/landigf/Broletter)
+
 - [@ToEnWikipediaBot](https://t.me/ToEnWikipediaBot) - Telegram bot that converts any non-English Wikipedia link into its English equivalent. [GitHub](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)
 
 - [@unzip_edm115bot](https://t.me/unzip_edm115bot) - A Telegram bot to extract various types of archives. [GitHub](https://github.com/EDM115/unzip-bot)
