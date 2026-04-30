@@ -303,6 +303,8 @@
 
 - [Watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
 
+- [@cybercollectorbot](https://t.me/cybercollectorbot) - Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
+
 ### ➤ Disclaimer
 
 All the bots listed here are not made by me and I don't have any contact with developers. If any bot not working in the list please don't ask me.
