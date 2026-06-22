@@ -273,6 +273,8 @@
 
 ### ➤ TypeScript
 
+- [DeFiKit Bot Maker](https://github.com/DefikitTeam/defikitmotfe) - Open-source Telegram bot template for creating and managing crypto tokens on Base, Ethereum, and other EVM chains from Telegram.
+
 - [@GeminiChatBot](https://t.me/GeminiTalkBot) - Uses google's gemini api (free tier). [GitHub](https://github.com/xditya/GeminiChatBot)
 
 - [@VideoDownloadBot](https://t.me/VideoDownloadBot) - Telegram bot to download videos from URLs. [GitHub](https://github.com/Borodutch/VideoDownloadBot)
