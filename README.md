@@ -74,6 +74,8 @@
 
 - [@the_peche_bot](https://t.me/the_peche_bot) - A telegram bot that spontaneously send images at random time in a channel. [GitLab](https://gitlab.com/albandewilde/peche)
 
+- [@CoinPingAlertBot](https://t.me/CoinPingAlertBot) - Multi-condition crypto price alerts: price thresholds, 24h % change and exchange spreads. Built with Go + CoinGecko API. [GitHub](https://github.com/SeigeC/coinping-bot)
+
 ### ➤ Java
 
 - [@userinfobot](https://t.me/userinfobot) - Simple Java Telegram bot displaying user info when a message is forwarded to it. [GitHub](https://github.com/nadam/userinfobot)
