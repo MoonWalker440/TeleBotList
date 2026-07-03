@@ -86,6 +86,14 @@
 
 ### ➤ JavaScript
 
+- [@RugLens_bot](https://t.me/RugLens_bot) - Instant rug pull & honeypot risk report for EVM tokens and TON jettons: honeypot simulation, taxes, owner powers, holder concentration, DEX liquidity. [GitHub](https://github.com/mrvlyouknowwho/ruglens)
+
+- [@GasBelowBot](https://t.me/GasBelowBot) - Ethereum gas price alerts: get pinged when gas drops (or spikes) past your gwei target. [GitHub](https://github.com/mrvlyouknowwho/tg-fleet)
+
+- [@FreshPoolsBot](https://t.me/FreshPoolsBot) - Fresh liquidity radar: newest DEX pools across Base, Ethereum, BSC, Solana and TON. [GitHub](https://github.com/mrvlyouknowwho/tg-fleet)
+
+- [@WalletPingAlertBot](https://t.me/WalletPingAlertBot) - Wallet activity alerts for EVM token transfers and TON addresses. [GitHub](https://github.com/mrvlyouknowwho/tg-fleet)
+
 - [@ExpenseBot](https://t.me/ExpenseBot) - A bot that helps you manage and track your daily expenses. [GitHub](https://github.com/n1try/telegram-expense-bot)
 
 - [@instaa_saver_bot](https://t.me/instaa_saver_bot) ❌ - Effortlessly download Instagram Reels, posts, and images, along with captions, using this Telegram bot. [GitHub](https://github.com/akashvaghela09/insta-saver-bot)
