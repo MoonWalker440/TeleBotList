@@ -289,6 +289,8 @@
 
 - [BoomBot](https://github.com/MrBoomDeveloper/BoomBot) - A nice bot with bunch of useful things 
 
+- [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) - Group bot for photo-backed weekly weight goals, charts, reminders, 53 achievements, and nine natural localizations. [Apache-2.0 source](https://github.com/IgorShadurin/weight-telegram-bot)
+
 ### ➤ Tools
 
 - [Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
