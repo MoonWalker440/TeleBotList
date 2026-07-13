@@ -126,6 +126,8 @@
 
 ### ➤ Python
 
+- [@QuitSponsorBot](https://t.me/QuitSponsorBot) - An AI quit-smoking sponsor with persistent memory: consent gate, evidence-based crisis protocols, real /export and /delete, seven languages. [GitHub](https://github.com/metrox-eth/quit-sponsor-bot)
+
 - [@ToEnWikipediaBot](https://t.me/ToEnWikipediaBot) - Telegram bot that converts any non-English Wikipedia link into its English equivalent. [GitHub](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)
 
 - [@unzip_edm115bot](https://t.me/unzip_edm115bot) - A Telegram bot to extract various types of archives. [GitHub](https://github.com/EDM115/unzip-bot)
