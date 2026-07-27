@@ -255,6 +255,9 @@
 
 - [Tweet Downloader](https://github.com/mad22mx/tweet_downloader) - This project enables the downloading of tweets from Twitter that include images or videos.
 
+- [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with Video/Document/MP3 delivery, Docker deployment, automatic updates, nightly yt-dlp maintenance, and rollback.
+- [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Telegram group bot that automatically turns shared links into native media posts with quiet reactions, media reuse, and rollback-safe Docker updates.
+
 ### ➤ Ruby
 
 - [AndysTicTacToe](https://github.com/Zhivch1k/AndysTicTacToe) - Tic-tac-toe game as a Telegram Bot 
