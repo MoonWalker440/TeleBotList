@@ -86,6 +86,7 @@
 
 ### ➤ JavaScript
 
+- [@Crypto_scanningbit_bot](https://t.me/Crypto_scanningbit_bot) - Free crypto prices, Fear & Greed index, profit calculator, P2P info. [GitHub](https://github.com/masik6565-droid/crypto-helper)
 - [@ExpenseBot](https://t.me/ExpenseBot) - A bot that helps you manage and track your daily expenses. [GitHub](https://github.com/n1try/telegram-expense-bot)
 
 - [@instaa_saver_bot](https://t.me/instaa_saver_bot) ❌ - Effortlessly download Instagram Reels, posts, and images, along with captions, using this Telegram bot. [GitHub](https://github.com/akashvaghela09/insta-saver-bot)
