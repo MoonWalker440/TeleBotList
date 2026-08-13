@@ -108,6 +108,8 @@
   
 - [Tunified](https://github.com/Burhanverse/Tunified) - A Telegram bot that fetches the currently playing song from Last.fm and posts details about the song to a specified channel.
 
+- [@ProzzoroUkraineBot](https://t.me/ProzzoroUkraineBot) - Monitors Prozorro tenders and material changes using configurable keyword, region, and budget filters. [GitHub](https://github.com/vovasik07/zakupvarta)
+
 ### ➤ Lua
 
 - [@GroupButler_bot](https://t.me/GroupButler_bot) - This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more. [GitHub](https://github.com/group-butler/GroupButler)
