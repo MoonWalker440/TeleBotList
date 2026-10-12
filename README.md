@@ -255,6 +255,8 @@
 
 - [Tweet Downloader](https://github.com/mad22mx/tweet_downloader) - This project enables the downloading of tweets from Twitter that include images or videos.
 
+- [AskePub](https://github.com/GeiserX/AskePub) - Self-hosted Telegram bot that uses GPT-4o to generate AI study notes from ePub books.
+
 ### ➤ Ruby
 
 - [AndysTicTacToe](https://github.com/Zhivch1k/AndysTicTacToe) - Tic-tac-toe game as a Telegram Bot 
