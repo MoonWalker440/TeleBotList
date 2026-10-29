@@ -147,6 +147,7 @@
 - [@the_ocr_bot](https://t.me/the_ocr_bot) - Telegram bot to convert image to text. [GitHub](https://github.com/amit-y11/the_ocr_bot)
 
 - [Telegram Image Upscaler Bot](https://github.com/marco-ardi/Telegram-Image-Upscaler-Bot) - A simple telegram bot for Upscaling images.
+- [@chkerapibot](https://t.me/chkerapibot) - Telegram bot that probes which models behind OpenAI-compatible LLM API proxies actually respond, with encrypted key history and multi-protocol checks. [GitHub](https://github.com/juzorei/tg-api-checker)
 
 - [@best_instagram_downloader](https://t.me/Best_Instagram_Downloader_Bot) ❌ - Telegram bot to download posts & reels from Instagram. [GitHub](https://github.com/arashnm80/best-instagram-downloader)
 
