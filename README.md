@@ -86,6 +86,8 @@
 
 ### ➤ JavaScript
 
+- [@you_aura_bot](https://t.me/you_aura_bot?start=src_github2) - Random 1-on-1 video chat Mini App inside Telegram with language filters and icebreaker mini-games. [GitHub](https://github.com/skeep83/aura)
+
 - [@ExpenseBot](https://t.me/ExpenseBot) - A bot that helps you manage and track your daily expenses. [GitHub](https://github.com/n1try/telegram-expense-bot)
 
 - [@instaa_saver_bot](https://t.me/instaa_saver_bot) ❌ - Effortlessly download Instagram Reels, posts, and images, along with captions, using this Telegram bot. [GitHub](https://github.com/akashvaghela09/insta-saver-bot)
